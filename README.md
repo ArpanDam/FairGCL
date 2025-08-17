@@ -24,7 +24,7 @@ Open the `.ipynb` file and run all code cells sequentially from top to bottom to
 
 All other required files are present in this directory.
 
-# Finding top k fair influencer 
+# Finding top k fair influencers 
 
 Run the code inside the folder Seed_finder as : **python seed_nodes.py 10 0.4** to find top 10 fair influencer
 
