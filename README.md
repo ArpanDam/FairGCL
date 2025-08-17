@@ -16,7 +16,7 @@ pip install pyg_lib torch_scatter torch_sparse -f https://data.pyg.org/whl/torch
 All required packages can be installed directly from the `.ipynb` file — simply run the first three installation cells before executing the rest of the notebook.
 
 
-Run the PNAConv.ipynb file to generate the node embeddings
+**Run the PNAConv.ipynb file to generate the node embeddings**
 
 
 Open the `.ipynb` file and run all code cells sequentially from top to bottom to execute the complete code. The node embedding will be stored in the file : embedding_fairness_mul.pkl
@@ -25,3 +25,8 @@ Open the `.ipynb` file and run all code cells sequentially from top to bottom to
 All other required files are present in this directory.
 
 # Finding top k fair influencer 
+
+Run the code inside the folder Seed_finder as : **python seed_nodes.py 10 0.4** to find top 10 fair influencer
+
+Here 10 is the number of top k fair influencer and 0.4 is the threshold beta.
+
