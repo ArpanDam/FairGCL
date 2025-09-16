@@ -14,7 +14,7 @@ pip install torch_geometric
 pip install pyg_lib torch_scatter torch_sparse -f https://data.pyg.org/whl/torch-$(python -c 'import torch; print(torch.__version__)').html
 
 All required packages can be installed directly from the `.ipynb` file — simply run the first three installation cells before executing the rest of the notebook.
-
+A dummy graph: Graph.pkl is provided.
 
 **Run the PNAConv.ipynb file to generate the node embeddings**
 
