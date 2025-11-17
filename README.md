@@ -1,5 +1,5 @@
-# FairGCL
-This code describes the process of FairGCL
+# GeoGCL
+This code describes the process of GeoGCL
 
 
 ## Required Packages
