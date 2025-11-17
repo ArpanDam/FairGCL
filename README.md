@@ -24,9 +24,9 @@ Open the `.ipynb` file and run all code cells sequentially from top to bottom to
 
 All other required files are present in this directory.
 
-# Finding top k fair influencers 
+# Finding top k geographical inclusive influencers 
 
-Run the code inside the folder Seed_finder as : **python seed_nodes.py 10 0.4** to find top 10 fair influencer
+Run the code inside the folder Seed_finder as : **python seed_nodes.py 10 0.4** to find top 10 geographical inclusive influencer
 
-Here 10 is the number of top k fair influencer and 0.4 is the threshold beta.
+Here, 10 is the number of top k inclusive influencers, and 0.4 is the threshold beta.
 
